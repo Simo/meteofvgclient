@@ -25,3 +25,5 @@ nbdist/
 
 ### COMPILED ###
 target/
+*.log
+.DS_store
